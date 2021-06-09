@@ -8,7 +8,7 @@ $ open https://github.com/ruslo/hunter
 
 ## Tasks
 
-- [ ] 1. Создать публичный репозиторий с названием **lab08** на сервисе **GitHub**
+- [ ] 1. Создать публичный репозиторий с названием **lab09** на сервисе **GitHub**
 - [ ] 2. Выполнить инструкцию учебного материала
 - [ ] 3. Ознакомиться со ссылками учебного материала
 - [ ] 4. Составить отчет и отправить ссылку личным сообщением в **Slack**
@@ -27,10 +27,10 @@ $ source scripts/activate
 ```
 
 ```sh
-$ git clone https://github.com/${GITHUB_USERNAME}/lab06 projects/lab08
-$ cd projects/lab08
+$ git clone https://github.com/${GITHUB_USERNAME}/lab06 projects/lab09
+$ cd projects/lab09
 $ git remote remove origin
-$ git remote add origin https://github.com/${GITHUB_USERNAME}/lab08
+$ git remote add origin https://github.com/${GITHUB_USERNAME}/lab09
 ```
 
 ```sh
